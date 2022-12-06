@@ -54,12 +54,12 @@ header .buttons {
 }
 
 header .buttons .search-icon {
-    content: url("/assets/icons/search-icon.png");
+    content: url("./assets/icons/search-icon.png");
     cursor: pointer;
 }
 
 header .buttons .purchases-icon {
-    content: url("/assets/icons/purchases-icon.png");
+    content: url("./assets/icons/purchases-icon.png");
     cursor: pointer;
 }
 
@@ -125,7 +125,7 @@ main .home .subtitles a:hover {
 
 main .home .background {
     background-image: linear-gradient(to right, rgba(255, 255, 255, 0.504), rgba(255, 255, 255, 0)),
-    url("/assets/backgrounds/bg.png");
+    url("./assets/backgrounds/bg.png");
     background-size: cover;
     width: 50%;
     height: 400px;
@@ -224,13 +224,13 @@ main .menu .items article button {
 }
 
 main .menu .items article .item.one {
-    background-image: url("/assets/menu/image-1.png");
+    background-image: url("./assets/menu/image-1.png");
 }
 
 main .menu .items article .item.two {
-    background-image: url("/assets/menu/image-2.png");
+    background-image: url("./assets/menu/image-2.png");
 }
 
 main .menu .items article .item.three {
-    background-image: url("/assets/menu/image-3.png");
+    background-image: url("./assets/menu/image-3.png");
 }
